@@ -9,5 +9,5 @@ conditions:
       operator: ne
       operand: michael@test.com
 value:
-  - percentage: 50
+  - percentage: 68
     option: true
