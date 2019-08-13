@@ -8,4 +8,6 @@ conditions:
       name: email
       operator: ne
       operand: michael@test.com
-value: true
+value:
+  - percentage: 50
+    option: true
