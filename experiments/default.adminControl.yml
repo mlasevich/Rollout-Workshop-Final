@@ -1,0 +1,11 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5d530a392385ac15e39a08e7
+type: experiment
+name: admin control
+flag: default.adminControl
+conditions:
+  - property:
+      name: email
+      operator: ne
+      operand: michael@test.com
+value: true
