@@ -1,0 +1,7 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5d530d752385ac15e39a0bac
+type: experiment
+name: new save
+enabled: false
+flag: default.newSave
+value: true
